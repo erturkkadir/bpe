@@ -1,15 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-TOKEN NEDİR? — canlı demo (OBS ekran kaydı için)
+TOKEN NEDİR? —
 =================================================
 Yunus Emre dörtlüğü üzerinde SIFIRDAN bir BPE tokenizer eğitir:
-  1) metni harflere böl        2) en sık geçen ikiliyi yapıştır
-  3) doyana kadar tekrarla     4) hiç görülmemiş kelimeyi tokenla
+  1) metni harflere böl
+  2) en sık geçen ikiliyi yapıştır
+  3) doyana kadar tekrarla
+  4) hiç görülmemiş kelimeyi tokenla
 
 Çalıştır:  python3 bpe_demo.py            (her bölüm Enter ile ilerler)
            python3 bpe_demo.py --hizli    (duraklamadan akar — prova için)
 
-Dış kütüphane YOK — sadece Python. Çekirdek algoritma ~15 satır (aşağıda
+kütüphane YOK — sadece Python. Çekirdek algoritma ~15 satır (aşağıda
 "ÇEKİRDEK" bloğu); gerçek tokenizer'lar (GPT'ninki dahil) aynı fikrin
 internet ölçeğinde koşulmuş hâlidir.
 """
