@@ -1,2 +1,2 @@
 # bpe
-Transformer Token Ornekleri ve Tansformer Kodu
+Transformer Token Ornekleri ve Transformer Kodu
