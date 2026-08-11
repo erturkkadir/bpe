@@ -1,0 +1,200 @@
+{"soru": "euro kac tl oldu bugun?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "Merhaba, sterlin kurunu ogrenebilir miyim?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "dolar kaca gidiyor abi", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "japon yeni ne kadar acaba 🤔", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "saat kac?", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "dolar kaç lira oldu", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "Merhaba, bugün Suudi riyali ne kadar acaba?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "kanada doları kaça gidiyo şu an 🤔", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "rus rublesinin kuru nedir", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"RUB\"}}"}
+{"soru": "saat kaç?", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "riyal alacam da 1 riyal kaç tl yapıyor", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "selam kanka usd ne durumda bugün", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "CAD/TRY kaç?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "ruble düştü mü yükseldi mi, kaç lira olmuş", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"RUB\"}}"}
+{"soru": "euro kuruna bi bakabilir misin", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "şu an tarih ve saat nedir", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "umreye gidiyorum sar kaç lira olmuş bakar mısın", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "dolarr kac lıra", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "iyi akşamlar, kanada dolarının güncel TL karşılığını öğrenebilir miyim?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "1 ruble ne kadar tl 💸", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"RUB\"}}"}
+{"soru": "sterlin kaça çıktı bugün", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "saati soyler misin lutfen", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "amerikan doları güncel kuru kaç", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "suudi arabistan parası kaç lira ediyor şimdi", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "Selam! Hem saati hem de dolar kurunu söyleyebilir misin?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "kaç oldu saat, akşam mı oldu yoksa", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "kanada dolari bugun kacmis merak ettim", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "rubleyi bozdurcam kaç para bi bak", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"RUB\"}}"}
+{"soru": "altin degil dolar sormustum, usd tl kaç", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "günaydın 🌞 şu anki saat kaç acaba?", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "kanada dolari kac tl", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "Merhaba, bugün dolar kaça gidiyor acaba?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "avustralya dolarının kuru nedir", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "suudi riyali kac lira olmus bakabilir misin", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "cad tl ne durumda simdi", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "1 usd kaç Türk lirası ediyor şu an", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "selam 🙂 aud kuruna bakar mısın", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "riyal kaç tl acaba, umreye gidicem de", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "bugünün tarihi ne, günlerden ne bugün", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "kanada dolarii ne kadar olduu", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "euro kaç lira?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "ya dolar dun 40 di bugun kaca cikmis", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "Avustralya doları TL karşılığını öğrenmek istiyorum, yardımcı olur musunuz?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "sar kuru", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "şu anda saat kaç oldu ⏰", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "sterlin ne kadar olmuş bugün", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "cad alsam mantıklı mı, önce kuru bi söyle", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "dolarin son durumu nedir kardes", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "aud kac tl yaziyo simdi", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "Suudi Arabistan para birimi kaç Türk lirası?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "bana saati ve tarihi yazar mısın lütfen", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "japon yeni kaça satılıyor", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "günaydın, tam olarak saat kaç şu an?", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "toplantı için hem saati hem de dolar kurunu söyle", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "dolar kac lira", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "Merhaba, bugün yuan ne kadar acaba? 🙏", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "ruble kuru nedir", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"RUB\"}}"}
+{"soru": "kanada doları kaça gidiyor bugün", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "selam kardeşim dolar bi bakar mısın kaç olmuş", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "çin parası çin yuanı yani kaç tl ediyor", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "1 rus rublesi kaç türk lirası", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"RUB\"}}"}
+{"soru": "cad tl kuru", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "şu an tarih ve saat nedir öğrenebilir miyim", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "euro kaç para oldu ya 😭", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "dolarr kacc lira olmuss", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "Yuan alacağım, güncel kuru paylaşır mısınız?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "moskovaya gidicem ruble ne durumda", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"RUB\"}}"}
+{"soru": "kanada dolari bugun kac tl", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "bugün günlerden ne, saati de yazsana", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "sterlin kuru kaç", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "usd try anlık fiyat", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "cny kuru kaç lira arkadaş", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "iyi akşamlar, ruble kaç liraymış bugün?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"RUB\"}}"}
+{"soru": "Toronto'ya para göndericem, CAD kuru ne kadar şu an?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "saat kaç oldu acaba ⏰", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "japon yeni kaç tl", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "naber, önce saati söyle bi de dolar kaç lira ona bakalım", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "dolar bozdurcam kur kacc", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "kanada dolari kac tl oldu bugun?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "Merhaba, Suudi riyali kaca gidiyor acaba?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "sterlin kuru nedir", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "japon yeni ne kadar 🤔", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "selam kanka CAD dolar kac lira su an", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "umreye gidicem riyal kaç tl ya", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "İngiliz sterlininin güncel TL karşılığını öğrenebilir miyim?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "1 yen kac tl ediyo", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "bugun gunlerden ne, tarih kac?", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "euro ne durumda bugun", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "dolar kac lira oldu yine 😩", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "Toronto'ya tasiniyorum, kanada dolari kuruna bakabilir misin", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "sar tl kuru", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "pound kaca satiliyor bugn", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "JPY/TRY ne kadar", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "su an saat kac oldu bir bakar misin lutfen", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "riyal ucuzladi mi, kac lira su anda?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "kanada dolarının bugünkü kuru nedir efendim", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "ingiliz parasi kac tl 💷", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "yen kuru ne kadar acaba, japonya bileti alicam", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "saati soyle bana", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "isvicre frangi kac lira", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "bi saate bakiver ya sonra da sterlin kac tl soyle", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "gunaydin, once saat kac ondan sonra kanada dolarina bakalim", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "dolar kac lira oldu bugün?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "Merhaba, Çin yuanı şu an kaça gidiyor acaba?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "japon yeni kuru nedir", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "avustralya doları TL karşılığı ne kadar?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "saat kac ya", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "selam 🙋 yuan alacam da kaç lira şu an?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "Bir bilgi rica edecektim, güncel Amerikan doları kuru kaç TL?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "jpy try kuru?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "aussie dolar ne durumda bugün 🇦🇺", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "şu an tarih ve saat kaç acaba, bilgisayarın saati şaşırdı", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "euro kaça çıktı yine 😩", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "1 dolar kaç tl", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "yen dusmus mu bugun ne kadar olmus", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "Avustralya dolarını takip ediyorum, son kuru paylaşabilir misin?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "sterlin kac lira", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "kanka çin parası kaç lira etti bi bak", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "gunaydin, once saati soyle bana", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "usd/try ne kadar şu anda?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "yuan kurunu ogrenebilir miyim", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "İsviçre frangı bugün kaça gidiyor?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "su an saat kacta bulunuyoruz 🤔", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "Tokyo'ya gidiyorum, yen ne kadar olmuş bakar mısın?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "aud kuru kac tl acaba", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "bugünün tarihi ne, saat de kaç oldu?", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "dolar kaç lira ve saat kaç, ikisini de söyle lütfen", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "dolar kaç lira oldu?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "Merhaba, euro kurunu öğrenebilir miyim acaba?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "isvicre frangi kaca gidiyor bugun", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "sterlin ne durumda 🤔", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "abi doları bi kontrol etsene, yükseldi mi?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "EUR/TRY kuru nedir", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "selam, frank alacaktım da şu an kaç TL?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "ingiliz sterlini kac tl 💸", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "bugün günlerden ne, tarihi de yazar mısın?", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "1 dolar tam olarak kaç lira ediyor şu an", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "euroo kac lyra", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "japon yeni kuru kaç?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "Merhabalar, İsviçre Frangı'nın güncel TL karşılığını paylaşabilir misiniz?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "şu an saat kaç oldu ya, uyuyakalmışım 😅", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "pound kuruna bakabilir misin", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "kanada doları kaça satılıyor", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "dolar bugün kaçtan açtı acaba", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "eurronun kuru ne kadar oldu bi bakar mısın", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "tam saati söyle bana lütfen", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "chf ne kadar", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "suudi riyali kaç lira?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"SAR\"}}"}
+{"soru": "gbp kaç TL kardeşim", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "saat kaç ve dolar kaç lira? ikisini birden söyle", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "euro kaç lira oldu bugün?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "Merhaba, İsviçre Frangı'nın güncel kurunu öğrenebilir miyim?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "japon yeni kaca gidiyor acaba 🤔", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "sterlin ne durumda kanka", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "1 euro kaç TL yapıyor şu an", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "chf kuru nedir", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "selam, dolar bugün kaç lira olmuş bi bakar mısın", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "yen kuru düştü mü yükseldi mi, güncel değeri neymiş", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "ingiliz sterlini kaç tl", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "bugünün tarihi ve saati nedir", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "eurooo kaç para 😅", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "isvicre frangi kac lıra acaba yazım hatam olduysa kusura bakmayın", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "Sayın yetkili, Japon Yeni'nin Türk Lirası karşısındaki güncel değerini paylaşabilir misiniz?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "pound kaça satılıyor bugün", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "şu an saat kaç oldu ya, çok geç mi", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "euro alacağım, kuru bi söyle", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "frank kuru kaç oldu son durum", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "100 japon yeni almak istiyorum, jpy kuru nedir", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "gbp tl karşılığı ne kadar şimdi", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"GBP\"}}"}
+{"soru": "naber, bi zahmet saati söyler misin ⏰", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "altın değil de euro kaç lira ondan haberin var mı", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "kanada doları kaç TL?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CAD\"}}"}
+{"soru": "tam olarak kaçıncı saat dilimindeyiz, şu anki zamanı yaz", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "isviçre frangı mı sterlin mi daha pahalı bilmiyorum ama önce chf kurunu ver", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "euro kac lira oldu bugün?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "Merhaba, Avustralya doları kuru nedir acaba?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "çin yuanı kaça gidiyor 🤔", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "japon yeni ne kadar simdi", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "1 eur kaç tl ediyor su an", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "selam dostum, aud/try ne durumda bi bakar mısın", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "yuan yükseldi mi bugün, kuru söyle", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "yen kuru kac lira acaba :)", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "avro alacam, güncel fiyatı nedir?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "kanguru parası yani avustralya doları kaç para", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "CNY kuruna bakabilir misin lütfen", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "jpy ne kadar oldu bi kontrol et", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "dolar kaç lira?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"USD\"}}"}
+{"soru": "günaydın, euro sabah sabah kaça çıkmış 😅", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "saati soylermisin", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "100 yen kaç tl yapar, kuru lazım", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "avustralya dolari son durum ne", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "isviçre frangı kaç lira olmuş?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CHF\"}}"}
+{"soru": "şimdi saat kaç oldu ⏰", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "çin para birimi kuru kaç tl?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "bugün ayın kaçı, tarihi verir misin", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
+{"soru": "euro bozduracam, kuru kaç şimdi kanka", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"EUR\"}}"}
+{"soru": "selam 100 japon yeni kac tl ediyor acaba? 🤔", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"JPY\"}}"}
+{"soru": "cin parasi yuan kaca gidiyor bugun", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"CNY\"}}"}
+{"soru": "Merhaba, Avustralya dolarının güncel satış kuru nedir?", "cevap": "{\"tool\": \"kur_getir\", \"args\": {\"para\": \"AUD\"}}"}
+{"soru": "saat kac oldu ya, borsa kapandi mi", "cevap": "{\"tool\": \"saat\", \"args\": {}}"}
