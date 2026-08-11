@@ -1,19 +1,4 @@
 #!/usr/bin/env python3
-"""OBS DEMO 2 — Fine-tuning: küçük modele DAVRANIŞ öğretmek.
-
-Videoda S7 (LoRA) ile S9 (Outro) arasına girer.
-
-Çalıştırma:
-    ./venv/bin/python finetune_demo.py            # Enter'la ilerler (kayıt için)
-    ./venv/bin/python finetune_demo.py --hizli    # duraklamasız prova
-    ./venv/bin/python finetune_demo.py --epok 3   # tur sayısı
-
-Fikir: modele yeni BİLGİ öğretmiyoruz. Aynı soruya nasıl cevap vereceğini
-öğretiyoruz — düz paragraf yerine tek satırlık araç çağrısı.
-
-Eğitim döngüsü bilerek elle yazıldı (Trainer yok): izleyici ileri geçiş →
-loss → geri yayılım → güncelleme adımlarını satır satır görsün.
-"""
 import argparse
 import json
 import pathlib
